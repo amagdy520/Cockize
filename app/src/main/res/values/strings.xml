@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Cockize</string>
+
+
+    <string-array name="foodName">
+        <item>Rosy Rhubarb-Meringue Cake</item>
+        <item>Cranberry Bread</item>
+        <item>Marshmallow Fudge</item>
+        <item>Chocolate-Caramel Truffles</item>
+        <item>Chocolate Heart Cupcakes</item>
+        <item>Vanilla Bundt Cake</item>
+        <item>Chocolate Bundt Cake</item>
+        <item>Lemon Cake</item>
+        <item>Strawberry Cake</item>
+        <item>Strawberry Cream Cake</item>
+    </string-array>
+
+    <string-array name="foodTime">
+        <item>Cook Time 4 hours 30 mins</item>
+        <item>Cook Time 1 hour 30 mins</item>
+        <item>Cook Time 2 hours 20 mins</item>
+        <item>Cook Time 4 hours 45 mins</item>
+        <item>Cook Time 3 hours</item>
+        <item>Cook Time 4 hours 15 mins</item>
+        <item>Cook Time 1 hours 15 mins</item>
+        <item>Cook Time 45 mins</item>
+        <item>Cook Time 1 hours</item>
+        <item>Cook Time 55 mins</item>
+    </string-array>
+
+    <string-array name="foodDisc">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
